@@ -60,3 +60,7 @@ Whether you're an HR professional or a data analyst, this dashboard helps you an
 Have feedback or questions? Want to collaborate on HR/data analytics projects?  
 Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/pavan-gokak-372171268/).
 
+<img width="1237" height="695" alt="Image" src="https://github.com/user-attachments/assets/95fa3d6f-51b4-4caa-bfae-db326645e2f5" />
+<img width="1240" height="693" alt="Image" src="https://github.com/user-attachments/assets/e5f9beed-32a8-48fd-b184-dc1e821fefe7" />
+<img width="1237" height="692" alt="Image" src="https://github.com/user-attachments/assets/8deb2904-e3de-40b7-8d49-49b3b1368b3b" />
+<img width="1230" height="612" alt="Image" src="https://github.com/user-attachments/assets/25c5a8e3-dbd6-4a11-a7b8-bfba68bccc6c" />
